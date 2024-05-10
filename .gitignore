@@ -1,0 +1,6 @@
+server/final_model_weights.pt
+server/res18-unet.pt
+colorizer-ui/node_modules
+env/
+server/servapp/__pycache__
+__pycache__/

@@ -1,0 +1,56 @@
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+}
+
+.attachFile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 5em;
+}
+
+.image-input {
+  width: 20em;
+}
+
+.imageboxes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 5em;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3em;
+}
+.card-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.comparison {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.padleft-submit {
+  margin-left: 2em;
+}
+.original {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.alert-size {
+  width: 30em;
+}
+
